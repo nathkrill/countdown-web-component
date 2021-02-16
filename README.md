@@ -3,7 +3,7 @@ Web Component to countdown to a certain date
 
 ## Usage
 
- 1. Install the package `npm install countdown-web-component`
+ 1. Install the package `npm install @nathkrill/countdown-web-component`
  2. Include `dist/js/countdown.min.js` in your project.
  3. Use in HTML:
  ```
