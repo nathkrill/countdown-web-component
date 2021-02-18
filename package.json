@@ -1,5 +1,5 @@
 {
-  "name": "@nathkrill/countdown-web-component",
+  "name": "countdown-clock-web-component",
   "version": "1.0.0",
   "description": "Web Component to countdown to a certain date",
   "main": "index.js",
